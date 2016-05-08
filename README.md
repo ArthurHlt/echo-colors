@@ -11,7 +11,7 @@ You can install this via the command-line with either `curl` or `wget`.
 #### via curl
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/ArthurHlt/echo/master/bin/install.sh)"
+$ sh -c "$(curl -fsSL https://raw.github.com/ArthurHlt/echo-colors/master/bin/install.sh)"
 ```
 
 #### via wget
